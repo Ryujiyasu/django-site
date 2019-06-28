@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<body>
+<link rel='stylesheet' href='http://cdn.rawgit.com/JeremyFagis/dropify/master/dist/css/dropify.css' />
+<script src='http://cdn.rawgit.com/JeremyFagis/dropify/master/dist/js/dropify.js'></script>
+<script>
+$(function(){
+  $('.dropify').dropify();
+})
+</script>
+
+<h3>アップロードするよ</h3>
+<form action="goods" method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <input type="file" class="dropify" data-default-file="ファイルを選択してください" name="csv">
+  <button type="submit" class="btn" name="button">アップロード</button>
+</form>
+</body>
+</html>
