@@ -2,598 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ceb1b75-2568-4710-b68a-d8defe91662e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sale/templates/sale/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_request/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_request/templates/user_request/check.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_request/templates/user_request/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_request/templates/user_request/thanks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_request/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/css/line-awesome-font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/css/line-awesome-font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/css/line-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/css/line-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/fonts/line-awesome.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/fonts/line-awesome.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/fonts/line-awesome.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/fonts/line-awesome.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/lineawesome/fonts/line-awesome.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/meteocons/css/meteocons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/meteocons/css/meteocons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/meteocons/fonts/Meteocons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/meteocons/fonts/Meteocons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/meteocons/fonts/Meteocons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/themify/css/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/themify/css/themify-icons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/themify/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/themify/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/themify/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/icons/themify/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/albums/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-01-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-02-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-03-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-04-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-05-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-06-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-07-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-08-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-09-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/avatar/avatar-09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/db-smarthome-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/background/db-smarthome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/blog/blog-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/cover/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-compact-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-compact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-default-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-modern-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-modern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-smarthome-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-smarthome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-social-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/dashboards/db-social.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/ico-facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/ico-linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/email/ico-twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/group/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/group/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/group/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/group/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/group/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/group/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-01-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-02-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-03-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-04-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/icone-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/logo-big-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/music/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/music/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/music/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/notifications/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/custom-marker-shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/custom-marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/layers-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/layers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/marker-icon-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/marker-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/plugins/leaflet/marker-shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/smarthome/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/img/videos/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/calendar/basic-calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/calendar/basic-calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/calendar/event-calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/calendar/event-calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/calendar/list-calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/calendar/list-calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/chat/chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/chat/chat.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/contact/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/contact/contact.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/mail/mail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/app/mail/mail.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/chartjs/chartjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/chartjs/chartjs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/datepicker/datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/leaflet/maps-leaflet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/leaflet/maps-leaflet.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/music/music-player.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/music/music-player.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/notifications/notifications.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/notifications/notifications.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/scrollable/scrollable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/scrollable/scrollable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/tabledit/tabledit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/tables/tables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/tabs/animated-tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/tabs/animated-tabs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/validation/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/validation/validation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/widgets/widgets-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/widgets/widgets-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/widgets/widgets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/widgets/widgets.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/wizard/form-wizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/components/wizard/form-wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-clean-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-clean-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-clean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-clean.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-compact-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-compact-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-compact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-compact.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-default-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-default-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-default.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-modern-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-modern-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-modern.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-modern.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-smarthome-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-smarthome-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-smarthome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/dashboard/db-smarthome.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/coming-soon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/coming-soon.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/events.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/friends.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/friends.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/newsfeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/js/pages/newsfeed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/css/base/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/css/base/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/css/base/elisyam-1.5-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/css/base/elisyam-1.5-dark.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/css/base/elisyam-1.5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/css/base/elisyam-1.5.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/app/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/base/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/base/core.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/base/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/base/jquery.ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/bootstrap-select/bootstrap-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/bootstrap-select/bootstrap-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/bootstrap-wizard/bootstrap.wizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/bootstrap-wizard/bootstrap.wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/calendar/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/calendar/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/calendar/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/chart/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/chart/chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/countdown/countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/countdown/countdown.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.bootstrap4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.bootstrap4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.colVis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.colVis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.flash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.flash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.html5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.html5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.print.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/buttons.print.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/dataTables.buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/dataTables.buttons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/datatables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/datatables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/pdfmake.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/pdfmake.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datatables/vfs_fonts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datepicker/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/datepicker/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/leaflet/leaflet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/leaflet/leaflet.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/lity/lity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/lity/lity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/nicescroll/nicescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/nicescroll/nicescroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/noty/noty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/noty/noty.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/owl-carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/photoswipe/photoswipe-ui-default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/photoswipe/photoswipe-ui-default.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/photoswipe/photoswipe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/photoswipe/photoswipe.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/progress/circle-progress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/progress/circle-progress.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/tabledit/jquery.tabledit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/static/order/vendors/js/tabledit/jquery.tabledit.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/qcselect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/thanks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/tpbench.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/tpdoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/tpreview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templates/order/tptrans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/templatetags/data_verbose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/django/ec2/orders/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/qcselect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/thanks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/tpbench.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/tpbench_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/tpdoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/tpreview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templates/orders/tptrans.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/templatetags/data_verbose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/orders/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/ionicons/css/ionicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/css/line-awesome-font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/css/line-awesome-font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/css/line-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/css/line-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/fonts/line-awesome.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/fonts/line-awesome.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/fonts/line-awesome.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/fonts/line-awesome.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/lineawesome/fonts/line-awesome.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/meteocons/css/meteocons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/meteocons/css/meteocons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/meteocons/fonts/Meteocons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/meteocons/fonts/Meteocons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/meteocons/fonts/Meteocons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/themify/css/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/themify/css/themify-icons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/themify/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/themify/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/themify/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/icons/themify/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/albums/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-01-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-02-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-03-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-04-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-05-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-06-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-07-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-08-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-09-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/avatar/avatar-09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/db-smarthome-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/background/db-smarthome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/blog/blog-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/cover/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-compact-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-compact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-default-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-modern-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-modern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-smarthome-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-smarthome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-social-dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/dashboards/db-social.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/ico-facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/ico-linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/email/ico-twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/group/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/group/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/group/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/group/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/group/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/group/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-01-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-02-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-03-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-04-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/icone-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/logo-big-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/music/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/music/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/music/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/notifications/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/custom-marker-shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/custom-marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/layers-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/layers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/marker-icon-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/marker-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/plugins/leaflet/marker-shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/smarthome/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/img/videos/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/calendar/basic-calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/calendar/basic-calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/calendar/event-calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/calendar/event-calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/calendar/list-calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/calendar/list-calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/chat/chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/chat/chat.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/contact/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/contact/contact.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/mail/mail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/app/mail/mail.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/chartjs/chartjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/chartjs/chartjs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/datepicker/datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/leaflet/maps-leaflet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/leaflet/maps-leaflet.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/music/music-player.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/music/music-player.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/notifications/notifications.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/notifications/notifications.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/scrollable/scrollable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/scrollable/scrollable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/tabledit/tabledit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/tables/tables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/tabs/animated-tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/tabs/animated-tabs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/validation/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/validation/validation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/widgets/widgets-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/widgets/widgets-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/widgets/widgets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/widgets/widgets.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/wizard/form-wizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/components/wizard/form-wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-clean-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-clean-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-clean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-clean.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-compact-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-compact-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-compact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-compact.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-default-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-default-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-default.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-modern-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-modern-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-modern.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-modern.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-smarthome-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-smarthome-dark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-smarthome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/dashboard/db-smarthome.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/coming-soon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/coming-soon.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/events.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/friends.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/friends.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/newsfeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/js/pages/newsfeed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/css/base/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/css/base/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/css/base/elisyam-1.5-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/css/base/elisyam-1.5-dark.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/css/base/elisyam-1.5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/css/base/elisyam-1.5.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/app/app.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/base/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/base/core.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/base/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/base/jquery.ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/bootstrap-select/bootstrap-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/bootstrap-select/bootstrap-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/bootstrap-wizard/bootstrap.wizard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/bootstrap-wizard/bootstrap.wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/calendar/fullcalendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/calendar/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/calendar/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/chart/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/chart/chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/countdown/countdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/countdown/countdown.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.bootstrap4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.bootstrap4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.colVis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.colVis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.flash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.flash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.html5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.html5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.print.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/buttons.print.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/dataTables.buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/dataTables.buttons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/datatables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/datatables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/pdfmake.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/pdfmake.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datatables/vfs_fonts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datepicker/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/datepicker/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/leaflet/leaflet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/leaflet/leaflet.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/lity/lity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/lity/lity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/nicescroll/nicescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/nicescroll/nicescroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/noty/noty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/noty/noty.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/owl-carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/photoswipe/photoswipe-ui-default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/photoswipe/photoswipe-ui-default.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/photoswipe/photoswipe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/photoswipe/photoswipe.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/progress/circle-progress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/progress/circle-progress.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/tabledit/jquery.tabledit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aws/site/static/orders/vendors/js/tabledit/jquery.tabledit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -603,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sale/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -675,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_request/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="195">
               <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -687,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/artist/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -696,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user_request/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="47" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -728,7 +139,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -754,7 +165,6 @@
         <option value="$PROJECT_DIR$/sale/models.py" />
         <option value="$PROJECT_DIR$/user_request/templates/user_request/list.html" />
         <option value="$PROJECT_DIR$/importcsv/views.py" />
-        <option value="$PROJECT_DIR$/user_request/models.py" />
         <option value="$PROJECT_DIR$/user_request/templates/user_request/check.html" />
         <option value="$PROJECT_DIR$/sale/views.py" />
         <option value="$PROJECT_DIR$/sale/urls.py" />
@@ -762,11 +172,12 @@
         <option value="$PROJECT_DIR$/sale/templates/sale/index.html" />
         <option value="$PROJECT_DIR$/user_request/urls.py" />
         <option value="$PROJECT_DIR$/user_request/forms.py" />
+        <option value="$PROJECT_DIR$/user_request/models.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
+    <option name="x" value="288" />
     <option name="y" value="23" />
     <option name="width" value="1250" />
     <option name="height" value="799" />
@@ -785,6 +196,11 @@
               <item name="artist" type="b2602c69:ProjectViewProjectNode" />
               <item name="artist" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="artist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artist" type="462c0819:PsiDirectoryNode" />
+              <item name="user_request" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -793,6 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -828,9 +245,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="23" width="1250" height="799" extended-state="0" />
+    <frame x="288" y="23" width="1250" height="799" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21806346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21806346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -841,7 +259,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -999,6 +417,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sale/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sale/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1046,19 +474,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_request/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user_request/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="195">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -1068,18 +486,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/artist/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sale/urls.py">
+    <entry file="file://$PROJECT_DIR$/user_request/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="47" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
